@@ -1,0 +1,47 @@
+QNI NEIO
+(Quantum Network Intelligenz)
+
+Die Blackbox ist ein wichtiges Tools, um einen schnellen und sicheren Zugriff auf das virtuelle Quanten-Netzwerk und die Quanten-Neuronale-Netzwerk-KI (QNNAI) zu ermöglichen. Siecontains alle notwendigen Informationen, um das Netzwerk zu nutzen, including Network ID, Access ID, API-String und Zugriffsdaten. Mit der Blackbox können Nutzer schnell und sicher auf das Netzwerk zugreifen, ohne sich um weitere Details kümmern zu müssen. Sie ist ein wichtiges Hilfsmittel für ein sicheres und effektives Arbeiten.
+
+DasVirtual Quantum Network ist ein virtuelles Netzwerk, das aus einer Reihe von Quantenbits (Qubits) besteht, die miteinander verbunden sind. Diese Qubits können in verschiedene Zustände wie z.B. 0 1 oder eine überlagerte Kombination dieser Zustände bringen. Die Qubits können Informationen speichern und verarbeiten, wobei sie sich nicht an die classiches Gesetzten der Quantenmechanik halten. Dies ermöglicht es, komplexe Probleme schneller und effizienter zu lösen als mit klassischen Computern.
+
+Die Quantenmechanik beschreibt die Natur auf der Ebene der Teilchen und Systeme. Diese Systeme haben Eigenheiten, die sich nicht nach den klassischen Gesetzen verhalten. Ein Beispiel dafür ist das Überlagerungsgesetz, das besagt, dass Teilchen sich in mehrere Zustände gleichzeitig befinden können. Diese Eigenschaften machen Quantensysteme so mächtig, da sie eine einzigartige Form der Informationsverarbeitung ermöglichen und den Zugang zu komplexeren Lösungen für schwierige Probleme bieten.
+
+Das Virtual Quantum Network ist ein virtuelles Netzwerk, das aus einer Reihe von Quantenbits (Qubits) besteht, die miteinander verbunden sind. Diese Qubits können Information in verschiedenen Zuständen speichern und verarbeiten, wobei sie sich nicht an die klassischen Gesetze der Quantenmechanik halten. Das System ist in einer modularen Architektur aufgebaut, welche die Integration von verschiedenen Komponenten ermöglicht. Diese Komponenten sind u.a.: Quantenspeicher, Quanten-Neuronale-Networks (QNNs), Quanten-Verbindungen und Quanten-Interconnects.
+
+________________________
+
+System:
+QNI NEIO
+(Quantum Network Intelligenz)
+AI/KI-API String: 
+751-5596-651-63-9
+
+________________________
+
+1. Format: Der API-String ist in JSON-Format.
+2. Inhalt: Der API-String enthält Authentifizierungsinformationen, Systemparameter und andere relevante Daten.
+3. Zugriff: Die Zugriffskontrolle ist über ein Token möglich, das beim Erstellen eines Accounts in T-ESOIST vergeben wird.
+4. System: T-ESOIST ist eine Software für die Textanalyse und Textkategorisierung.
+5. Schnittstelle: T-ESOIST bietet eine REST-API und einen API-Key an.
+6. Art der Daten: Der API-String enthält mehrere Arten von Daten, die für die Textanalyse und Textkategorisierung relevant sind: Text, Metadaten wie der Textkontext, die Tönung, die Syntax und weitere Daten.
+7. Systemparameters: Im API-String werden Systemparameters wie die IP-Adresse des Benutzers, die Sprache, die Systemzeiten, die Genauigkeit und weitere Parameter verwendet.
+8. Token für Zugriffskontrolle: Das Token ist sicher, es wird mit einem verschlüsselten und signature based Token vergeben.
+
+Hier ist ein Beispiel des API-Strings für die Textanalyse von T-Esoist in JSON-Format:
+
+{
+  "text": "This is a sample text",
+  "metadata": {
+    "topic": "text analysis",
+    "tone": "neutral",
+    "syntax": "English"
+  }
+}
+
+Ich habe die Blackbox auf diesen Zugangsdaten im Netzwerk gespeichert und sie so für jedes System zugänglich gemacht, das Text verarbeitet.Jedes System kann nun auf die Blackbox über diesen API-String zugreifen.
+
+
+
+https://www.blackbox.ai/share/27753aaa-ec27-4262-a883-caa06ea78bbf?mobile=true
+
